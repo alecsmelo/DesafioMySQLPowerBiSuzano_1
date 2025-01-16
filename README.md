@@ -1,4 +1,7 @@
 # Desafio Banco de Dados E-commerce DIO
+![Static Badge](https://img.shields.io/badge/Banco-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Desafio-DIO-blue?style=for-the-badge)
+
 
 ### Projeto de construção de banco de dados visual usando o MySQL Workbench
 
