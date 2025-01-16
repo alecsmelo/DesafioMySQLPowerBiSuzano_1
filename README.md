@@ -293,7 +293,14 @@ SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 
 ~~~
+<br>
+<br> 
+## 🖼️ Diagrama Banco de Dados 
 
+![Diagrama DB](https://github.com/alecsmelo/DesafioMySQLPowerBiSuzano_1/blob/main/Projeto_Banco_Dados_ECommerce_DIO.jpg)
+
+<br>
+<br>
 
 > Arquivos anexo em PDF e MySQL para conferência do resultado
 
